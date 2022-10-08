@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**BPPL0806/BPPL0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello there 👋🗿
+<br>
+<p>I'm just random guy that learns different
+programming languages to get a job in future.</p>
+<br>
+<h4>My current skills</h4>
+<ul>
+ <li>Python 3</li>
+ <li>Kotlin</li>
+ <li>MySQl</li>
+ <li>Some CSS & HTML</li>
+</ul>
+<img src="https://ibb.co/WzKKv8G"/>
