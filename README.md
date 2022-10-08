@@ -10,4 +10,4 @@ programming languages to get a job in future.</p>
  <li>MySQl</li>
  <li>Some CSS & HTML</li>
 </ul>
-<img src="https://ibb.co/WzKKv8G"/>
+<img src="https://i.ibb.co/1X22Gy7/image169.png"/>
