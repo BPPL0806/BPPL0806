@@ -8,7 +8,7 @@ CET Timezone
 <ul>
  <li>Python 3</li>
  <li>Kotlin</li>
- <li>MySQl</li>
+ <li>MySQL</li>
  <li>Some HTML & CSS</li>
 </ul>
 <img src="https://i.ibb.co/1X22Gy7/image169.png"/>
