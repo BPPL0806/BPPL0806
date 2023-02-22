@@ -1,8 +1,9 @@
-### Hello there 👋🗿
+### Hello There 👋🗿
 <br>
 <p>I'm just random guy that learns different
-programming languages to get a job in future.</p>
+programming languages and other computer science stuff to get a job in future.</p>
 CET Timezone
+
 <br>
 <h4>My current skills</h4>
 <ul>
