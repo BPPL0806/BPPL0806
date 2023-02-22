@@ -7,7 +7,7 @@ CET Timezone
 <h4>My current skills</h4>
 <ul>
  <li>Python 3</li>
- <li>Networking<li>
+ <li>Networking</li>
  <li>MySQL</li>
 </ul>
-<img align="center" src="https://ibb.co/qrn9tNm"/>
+<img align="center" src="https://i.ibb.co/kSy0R4q/image197.png"/>
