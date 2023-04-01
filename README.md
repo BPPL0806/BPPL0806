@@ -4,12 +4,13 @@
 programming languages and other computer science stuff to get a job in future.</p>
 CET Timezone
 
-<img align="right" src="https://i.ibb.co/kSy0R4q/image197.png"/>
+<img align="right" src="x.png"/>
 <br>
 <h4>My current skills</h4>
 <ul>
  <li>Python 3</li>
  <li>Networking</li>
  <li>MySQL</li>
+ <li>C#</li>
 </ul>
 
