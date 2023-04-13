@@ -4,7 +4,7 @@
 technologies to get a job in future.</p>
 CET Timezone
 
-<img align="right" src="image212.png"/>
+<img src="image212.png"/>
 <br>
 <h4>My current tech stack</h4>
 <ul>
