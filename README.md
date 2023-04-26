@@ -4,14 +4,13 @@
 technologies to get a job in future.</p>
 Portfolio page -> https://bppl0806.github.io/PortfolioPage/
 <br>
-<h4>My current tech stack</h4>
+<h4>My current web dev tech stack</h4>
 <ul>
  <li>TailwindCSS</li>
- <li>HTML & CSS</li>
- <li>Vanilla JS</li>
- <li>jQuery</li>
+ <li>Bootstrap</li>
+ <li>Vue.js</li>
  <li>Python 3</li>
  <li>MySQL</li>
 </ul>
 <br>
-<img src="image212.png"/>
+<!-- <img src="stack.png"/> -->
