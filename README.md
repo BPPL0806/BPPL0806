@@ -13,4 +13,4 @@ Portfolio page -> https://bppl0806.github.io/PortfolioPage/
  <li>MySQL</li>
 </ul>
 <br>
-<img src="stack.png"/>
+<img src="x.png"/>
