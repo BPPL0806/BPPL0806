@@ -7,7 +7,7 @@ Portfolio page -> https://bppl0806.github.io/PortfolioPage/
 <h4>My current web dev tech stack</h4>
 <ul>
  <li>TailwindCSS</li>
- <li>Bootstrap</li>
+ <li>Headless UI</li>
  <li>Vue.js</li>
  <li>Python 3</li>
  <li>MySQL</li>
