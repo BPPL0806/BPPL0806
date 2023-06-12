@@ -6,11 +6,12 @@ Portfolio page -> https://bppl0806.github.io/PortfolioPage/
 <br>
 <h4>My current web dev tech stack</h4>
 <ul>
- <li>TailwindCSS</li>
- <li>Headless UI</li>
- <li>Vue.js</li>
- <li>Python 3</li>
- <li>MySQL</li>
+ <li>HTML</li>
+ <li>CSS</li>
+ <li>Javscript</li>
+ <li>Bootstrap 5</li>
+ <li>Tailwind CSS</li>
+ <li>React</li>
 </ul>
 <br>
-<img src="x.png"/>
+<img src="stack.png"/>
