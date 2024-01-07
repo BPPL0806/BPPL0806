@@ -6,7 +6,7 @@ technologies to get a job in future.</p>
 <h4>My current tech stack</h4>
 <ul>
  <li>Svelte</li>
- <li>Svelte Headless UI</li>
+ <li>daisyUI</li>
  <li>Tailwind CSS</li>
  <li>Pocketbase</li>
  <li>Vite</li>
