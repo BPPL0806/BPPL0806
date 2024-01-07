@@ -12,4 +12,4 @@ technologies to get a job in future.</p>
  <li>Vite</li>
 </ul>
 <br>
-<img src="stack.png"/>
+<img src="x.png"/>
